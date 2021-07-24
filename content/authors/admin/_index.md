@@ -1,17 +1,18 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Fatemeh Kaveh-Yazdy, Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Data Scientist, 
+      Machine Learning Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Data Science Institute, Yazd University
+  [](url: https://www.stanford.edu/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
