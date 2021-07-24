@@ -6,8 +6,7 @@ title: Fatemeh Kaveh-Yazdy, Ph.D.
 superuser: true
 
 # Role/position/tagline
-role: Senior Data Scientist
-Machine Learning Consultant
+role: Senior Data Scientist| Machine Learning Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
