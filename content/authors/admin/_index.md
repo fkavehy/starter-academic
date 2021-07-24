@@ -6,13 +6,12 @@ title: Fatemeh Kaveh-Yazdy, Ph.D.
 superuser: true
 
 # Role/position/tagline
-role: Senior Data Scientist, 
-      Machine Learning Consultant
+role: Senior Data Scientist, Machine Learning Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Data Science Institute, Yazd University
-  [](url: https://www.stanford.edu/)
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
