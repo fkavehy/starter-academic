@@ -25,7 +25,7 @@ experience:
   - title: Senior Data Scientist
     company: Data Science Institute of Yazd University
     company_url: ''
-    company_logo: org-gc
+    company_logo: YU-logo
     location: California
     date_start: '2019-05-01'
     date_end: ''
