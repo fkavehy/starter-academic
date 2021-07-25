@@ -27,18 +27,10 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Engineering (Software)
-    Dissertation title
-    Persian Query Expansion in Parsijoo Search Engine
-    Graduated with Summa Cum Laude Honor (Total GPA of 20 out of 20)
     year: 2019
   - course: MSc. in Computer Science
-    Thesis title
-    Language Model Combination for Spoken Language Understanding in a Persian Dialogue Engine
     year: 2009
   - course: BSc. in Computer Engineering (Software)
-    Thesis title
-    Information Extraction Using Text Mining Techniques
-    Graduated as Top Student in 2007 Class
     year: 2007
 
 # Social/Academic Networking
