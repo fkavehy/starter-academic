@@ -71,4 +71,3 @@ highlight_name: false
 
 Fatemeh Kaveh-Yazdy is a senior data scientist at YU's DSI. Her research interest include natural language processing, time series analysis and machine learning for biomedical applications. She has served as machine learning engineer and senior data scientist in a broad domain of business and academic data analytics projects. 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
