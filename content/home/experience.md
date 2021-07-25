@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Text data analysis /information extraction
+        * Text data analysis and information extraction
         * Anomaly detection
         * Invited lecturer
         
