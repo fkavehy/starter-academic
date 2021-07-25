@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Fatemeh Kaveh-Yazdy, Ph.D.
+title: Fatemeh Kaveh-Yazdy
 
 # Is this the primary user of the site?
 superuser: true
