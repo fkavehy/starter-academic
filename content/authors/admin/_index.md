@@ -27,13 +27,17 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Engineering (Software)
-    institution: Yazd University
+    # institution: Yazd University
+    dissertation title: Persian Query Expansion in Parsijoo Search Engine
+    Graduated with Summa Cum Laude Honor (Total GPA of 20 out of 20)
     year: 2019
   - course: MSc. in Computer Science
-    institution: SUT/YU
+    # institution: Sharif Uni. of Tech./YU
     year: 2009
   - course: BSc. in Computer Engineering (Software)
-    institution: Yazd University
+    # institution: Yazd University
+    Information Extraction Using Text Mining Techniques
+    Graduated as Top Student in 2007 Class
     year: 2007
 
 # Social/Academic Networking
@@ -44,18 +48,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=c4BE98cAAAAJ&hl=en
+# icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/fatemeh-kaveh-yazdy-99101b88/?originalSubdomain=ir
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
