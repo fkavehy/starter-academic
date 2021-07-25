@@ -45,8 +45,8 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
     
-    - title: Professor of Semiconductor Physics
-    company: University X
+   - title: Professor of Semiconductor Physics
+    company: University Y
     company_url: ''
     company_logo: org-x
     location: California
