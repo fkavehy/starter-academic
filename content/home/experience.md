@@ -144,7 +144,7 @@ experience:
     description: |2-
         Teaching courses:
         
-        * eveloping an Online Billing System using ASP.Net
+        * Developing an Online Billing System using ASP.Net
              
 design:
   columns: '2'
