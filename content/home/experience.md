@@ -23,17 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: External Research Member
-    company: Prof. Koohi-Moghadam's research Lab. at Clinical AI Dept., Faculty of Dentistry, University of Hong Kong
+    company: Koohi-Moghadam's Research Lab. of Clinical AI Dept.
     company_url: ''
     company_logo: HKUDen
-    location: Hong Kong
+    location: Faculty of Dentistry, University of Hong Kong
     date_start: '2021-05-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
         * Utilizing NLP methods for drug discovery
-        
+ 
 design:
   columns: '2'
 ---
