@@ -82,7 +82,7 @@ experience:
   - title: External Research Member
     company: Alpha Lab. at Dalian University of Technology. 
     company_url: 'www.thealphalab.org'
-    company_logo: parsijoo
+    company_logo: alphalab
     location: Yazd, Iran
     date_start: '2013-01-01'
     date_end: '2016-01-01'
@@ -114,7 +114,7 @@ experience:
     date_end: '2017-10-31'
     description: |2-
         Responsibilities include:
-        
+        Teaching courses,
         * Reference Mangement and Publishing Ethics
         * Artificial Intelligence 
         * Modern Intelligent Information Systems (Data Mining for undergraduates)
