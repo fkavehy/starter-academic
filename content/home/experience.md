@@ -84,8 +84,8 @@ experience:
     company_url: 'www.thealphalab.org'
     company_logo: parsijoo
     location: Yazd, Iran
-    date_start: '2013-07-01'
-    date_end: '2016-07-01'
+    date_start: '2013-01-01'
+    date_end: '2016-01-01'
     description: |2-
         Responsibilities include:
         
@@ -97,13 +97,31 @@ experience:
     company_url: ''
     company_logo: ''
     location: Yazd, Iran
-    date_start: '2013-07-01'
-    date_end: '2016-07-01'
+    date_start: '2010-09-01'
+    date_end: '2015-06-30'
     description: |2-
         Responsibilities include:
         
         * Kernel-Based Classification
         * Mining Body Sensor Network’s Data
+  
+  - title: Invited Lecturer
+    company: Computer Engineering and Computer Science Departments of Yazd University
+    company_url: 'www.yazd.ac.ir'
+    company_logo: YU-logo
+    location: Yazd, Iran
+    date_start: '2009-09-01'
+    date_end: '2017-10-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Reference Mangement and Publishing Ethics
+        * Artificial Intelligence 
+        * Modern Intelligent Information Systems (Data Mining for undergraduates)
+        * Human-Computer Interaction Design
+        * Database System Design
+        * Database System Concepts for Chemoinformatics students
+        
 design:
   columns: '2'
 ---
