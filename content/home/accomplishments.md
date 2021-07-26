@@ -26,18 +26,18 @@ item:
 - certificate_url: ''
   date_end: ""
   date_start: "2011-03-01"
-  description: "No. 637857"
+  description: "Certification No. 637857"
   organization: National Institute of Health Office of Extramural Research
-  organization_url: https://www.coursera.org
+  organization_url: https://grants.nih.gov/policy/humansubjects/training-and-resources.htm
   title: Protecting Human Research Participants
   url: ""
-- certificate_url: https://www.coursera.org
+- certificate_url: https://courses.edx.org/certificates/33102d464a1f46a3939ebe9d676d54d3
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2018-06-20"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Microsoft via EdX
+  organization_url: https://www.edx.org
+  title: Ethics and Law in Data and Analytics
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
