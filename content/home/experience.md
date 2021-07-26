@@ -110,7 +110,7 @@ experience:
     company_url: 'www.yazd.ac.ir'
     company_logo: YU-logo
     location: Yazd, Iran
-    date_start: '2009-09-01'
+    date_start: '2009-09-15'
     date_end: '2017-10-31'
     description: |2-
         Teaching courses:
@@ -121,7 +121,31 @@ experience:
         * Human-Computer Interaction Design
         * Database System Design
         * Database System Concepts for Chemoinformatics students
+         
+  - title: Junior Researcher
+    company: Asr-Gooyesh Pardaz
+    company_url: ''
+    company_logo: asr-gooyesh
+    location: Tehran, Iran
+    date_start: '2007-09-10'
+    date_end: '2009-08-31'
+    description: |2-
+        Teaching courses:
         
+        * Developing 1st Persian SLU Core Unit for Banking Services
+          
+  - title: Software Developer
+    company: Yazd Regional Electrical Company (YREC)
+    company_url: 'www.yrec.co.ir'
+    company_logo: yrec
+    location: Yazd, Iran
+    date_start: '2005-06-10'
+    date_end: '2009-09-15'
+    description: |2-
+        Teaching courses:
+        
+        * eveloping an Online Billing System using ASP.Net
+             
 design:
   columns: '2'
 ---
