@@ -113,8 +113,8 @@ experience:
     date_start: '2009-09-01'
     date_end: '2017-10-31'
     description: |2-
-        Responsibilities include:
-        Teaching courses,
+        Teaching courses:
+        
         * Reference Mangement and Publishing Ethics
         * Artificial Intelligence 
         * Modern Intelligent Information Systems (Data Mining for undergraduates)
