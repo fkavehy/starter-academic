@@ -22,38 +22,88 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: External Research Member
+    company: Prof. Koohi-Moghadam's research Lab. 
+    company_url: ''
+    company_logo: HKUDen
+    location: Clinical AI Dept., Faculty of Dentistry, The University of Hong Kong
+    date_start: '2021-05-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Utilizing NLP methods for drug discovery
+        
   - title: Senior Data Scientist
     company: Data Science Institute of Yazd University
-    company_url: ''
+    company_url: 'www.yazd.ac.ir'
     company_logo: YU-logo
-    location: California
+    location: Yazd, Iran
     date_start: '2019-05-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Text data analysis and information extraction
-        * Anomaly detection
-        * Invited lecturer
+        * Running scientific information extraction projects
+        * Running anomaly detection and time series prediction projects
+        * Invited lecturer at Computer Engineering Dept. 
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Head of NLP Department (Senior Data Scientist)
+    company: Parsijoo Persian Search Engine
+    company_url: 'www.parsijoo.com'
+    company_logo: parsijoo
+    location: Yazd, Iran
+    date_start: '2016-07-01'
+    date_end: '2019-12-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Developing Parsijoo's word embedding-based query expansion unit
+        * Running empirical information extraction projects 
+        * Managing data analysis projects
+        * Mentoring/supervision of graduate students
+        * Writing technical reports and business proposals 
+      
+  - title: Machine Learning Engineer
+    company: Parsijoo Persian Search Engine
+    company_url: 'www.parsijoo.com'
+    company_logo: parsijoo
+    location: Yazd, Iran
+    date_start: '2013-07-01'
+    date_end: '2016-07-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Developing Parsijoo's ELM-based query expansion unit
+        * Developing automatic synonymy extraction unit (an Omni-language synonymy extraction using web-scraped data)
+        * Running Parsijoo's internal data analysis projects 
+        * Mentoring/supervision of junior researchers
+    
+  - title: External Research Member
+    company: Alpha Lab. at Dalian University of Technology. 
+    company_url: 'www.thealphalab.org'
+    company_logo: parsijoo
+    location: Yazd, Iran
+    date_start: '2013-07-01'
+    date_end: '2016-07-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Kernel-Based Classification
+        * Mining Body Sensor Network’s Data
+         
+  - title: Research Assistant
+    company: Information Processing and Knowledge Discovery Lab. (IPKD Lab.)
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company_logo: ''
+    location: Yazd, Iran
+    date_start: '2013-07-01'
+    date_end: '2016-07-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Kernel-Based Classification
+        * Mining Body Sensor Network’s Data
 design:
   columns: '2'
 ---
