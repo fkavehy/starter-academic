@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2020-05-02"
   description: AWS (Grade 100/100)
-  organization: AWS 
+  organization: coursera 
   organization_url: https://www.coursera.org
   title: Getting Started with AWS Machine Learning
   url: "" 
