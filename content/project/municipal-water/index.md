@@ -1,7 +1,8 @@
 ---
 title: Municipal Water
-subtitle: Municipal water Resource Management
+subtitle: ""
 date: 2021-07-27T14:21:24.846Z
+summary: Municipal water Resource Management for Yazd City.
 draft: false
 featured: true
 authors:
