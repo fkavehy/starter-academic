@@ -8,7 +8,7 @@ authors:
   - '"Fatemeh Kaveh-Yazdy"'
 external_link: www.yazd.ac.ir
 image:
-  filename: featured
+  filename: water-project.jpg
   focal_point: Smart
   preview_only: false
 ---
