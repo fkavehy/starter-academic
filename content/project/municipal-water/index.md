@@ -1,22 +1,23 @@
 ---
-title: Municipal Water
-subtitle: ""
-date: 2021-07-27T14:21:24.846Z
+title: Example Project
 summary: Municipal water Resource Management for Yazd City.
-draft: false
-featured: true
-authors:
-  - Fatemeh Kaveh-Yazdy
-external_link: https://fkavehy.netlify.app/project/municipal-water/
+tags:
+- Time Series
+- Outlier Detection
+- Machine Learning
+date: "2021-07-27T14:21:24.846Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
 image:
-  filename: water-project.jpg
   focal_point: Smart
+  
 ---
 This project is started in summer 2019 and includes the following steps:
 
 * Designing an MC framework provides monthly water consumption prediction for consumers 
 * Designing water meter replacement plan using outlier detection methods
-
 
 
 ##  Multi-Criteria Water Consumption Prediction
@@ -32,7 +33,6 @@ This water consumption prediction framework uses the following parameters,
 7. Pricing history and inflation
 
    A Set of mentioned parameters are collected for >76000 municipal water consumers of Yazd city. Data includes a data-frame of >15,000,000 records and 450 parameters. Records are preprocessed, and their key features are extracted and normalized. Finally, the future consumption values are predicted using a piecewise Quantile Regression. The regressor's cutting thresholds are automatically extracted and applied. 
-
 
 
 ## Water Meter Replacement
