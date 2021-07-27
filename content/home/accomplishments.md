@@ -26,7 +26,7 @@ item:
 - certificate_url: https://coursera.org/share/9e96ee652dff53cab104fb39ee26b8e7
   date_end: ""
   date_start: "2021-01-09"
-  description: University of Geneva 
+  description: University of Geneva (Grade 91/100)
   organization: coursera
   organization_url: https://www.coursera.org
   title: Precision Medicine
@@ -34,7 +34,7 @@ item:
 - certificate_url: https://coursera.org/share/9b7234e01fa40be55c0e9e9e9ab1b800
   date_end: ""
   date_start: "2020-05-02"
-  description: AWS  
+  description: AWS (Grade 100/100)
   organization: AWS 
   organization_url: https://www.coursera.org
   title: Getting Started with AWS Machine Learning
@@ -42,7 +42,7 @@ item:
 - certificate_url: https://coursera.org/share/2da8e974c1fef89562c780bffb05427b
   date_end: ""
   date_start: "2020-05-08"
-  description: Google Cloud 
+  description: Google Cloud (Grade 100/100) 
   organization: coursera
   organization_url: https://www.coursera.org
   title: Building Conversational Experiences with Dialogflow
@@ -50,7 +50,7 @@ item:
 - certificate_url: https://courses.edx.org/certificates/33102d464a1f46a3939ebe9d676d54d3
   date_end: ""
   date_start: "2018-06-20"
-  description: "Microsoft"
+  description: "Microsoft (Grade 94/100)"
   organization: edX
   organization_url: https://www.edx.org
   title: Ethics and Law in Data and Analytics
@@ -67,15 +67,15 @@ item:
   date_end: ""
   date_start: "2014-12-03"
   description: 
-  organization: Stanford University
+  organization: Stanford University (Grade 81.66/100)
   organization_url: https://www.stanford.edu/
   title: Mining Massive Dataset
   url: ""
 - certificate_url: https://coursera.org/share/1b52b22dd3ca709feb7908a70e1a67bd
   date_end: ""
   date_start: "2016-08-02"
-  description: Coursera Community Team 
-  organization: edX
+  description: Coursera Community Team (Grafe 100/100)
+  organization: coursera
   organization_url: https://www.coursera.org
   title: Coursera Mentor Community and Training Course
   url: "" 
