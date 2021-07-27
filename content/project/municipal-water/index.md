@@ -6,7 +6,7 @@ draft: false
 featured: true
 authors:
   - '"Fatemeh Kaveh-Yazdy"'
-external_link: --
+external_link: https://fkavehy.netlify.app/project/municipal-water/
 image:
   filename: water-project.jpg
   focal_point: Smart
