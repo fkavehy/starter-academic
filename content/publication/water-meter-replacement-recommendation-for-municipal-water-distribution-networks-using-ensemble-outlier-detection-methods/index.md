@@ -6,6 +6,15 @@ publication_types:
 authors:
   - '["Fatemeh Kaveh-Yazdy"'
   - '"Sajjad Zarifzadeh"]'
+author_notes:
+  - '["Computer Engineering Department'
+  - Yazd University
+  - Yazd
+  - Iran"
+  - '"Computer Engineering Department'
+  - Yazd University
+  - Yazd
+  - Iran"]
 doi: http://dx.doi.org/10.22044/jadm.2021.10672.2202
 publication: Journal of AI and Data Mining, Article-In-Press, July 2021.
 abstract: >+
