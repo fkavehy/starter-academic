@@ -11,6 +11,7 @@ date: "2021-07-27T14:21:24.846Z"
 external_link: ""
 
 image:
+  caption: Data Distribution and Schema Water Replacement Framework.
   focal_point: Smart
   
 ---
