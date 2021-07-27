@@ -37,6 +37,7 @@ projects:
 image:
   filename: water-meter.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
+  alt_text: The attached figure shows the schema of the proposed framework.
 date: 2021-07-27T13:41:25.660Z
 ---
