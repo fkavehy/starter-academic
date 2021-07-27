@@ -26,7 +26,7 @@ item:
 - certificate_url: https://coursera.org/share/9e96ee652dff53cab104fb39ee26b8e7
   date_end: ""
   date_start: "2021-01-09"
-  description: Course's content is provided by the University of Geneva 
+  description: University of Geneva 
   organization: coursera
   organization_url: https://www.coursera.org
   title: Precision Medicine
@@ -35,14 +35,14 @@ item:
   date_end: ""
   date_start: "2020-05-02"
   description: Course's content is provided by AWS's 
-  organization: coursera
+  organization: AWS 
   organization_url: https://www.coursera.org
   title: Getting Started with AWS Machine Learning
   url: "" 
 - certificate_url: https://coursera.org/share/2da8e974c1fef89562c780bffb05427b
   date_end: ""
   date_start: "2020-05-08"
-  description: Course's content is provided by Google Cloud 
+  description: Google Cloud 
   organization: coursera
   organization_url: https://www.coursera.org
   title: Building Conversational Experiences with Dialogflow
@@ -50,27 +50,35 @@ item:
 - certificate_url: https://courses.edx.org/certificates/33102d464a1f46a3939ebe9d676d54d3
   date_end: ""
   date_start: "2018-06-20"
-  description: "Course's content is provided by Microsoft"
+  description: "Microsoft"
   organization: edX
   organization_url: https://www.edx.org
   title: Ethics and Law in Data and Analytics
+  url: ""  
+- certificate_url: https://coursera.org/share/1b52b22dd3ca709feb7908a70e1a67bd
+  date_end: ""
+  date_start: "2020-05-21"
+  description: 
+  organization: Shiraz University of Medical Sciences
+  organization_url: http://www.gsia.sums.ac.ir/en
+  title: An Introduction to the practical researches in the Infectious Diseases Epidemics with Emphasis on SARS-COV-2
+  url: ""   
+- certificate_url: https://drive.google.com/file/d/1pZnm7xt40CCkC2h72YD6JUtmmUtzsiBv/view?usp=sharing
+  date_end: ""
+  date_start: "2014-12-03"
+  description: 
+  organization: Stanford University
+  organization_url: https://www.stanford.edu/
+  title: Mining Massive Dataset
   url: ""
 - certificate_url: https://coursera.org/share/1b52b22dd3ca709feb7908a70e1a67bd
   date_end: ""
   date_start: "2016-08-02"
-  description: coursera
+  description: Coursera Community Team 
   organization: edX
   organization_url: https://www.coursera.org
   title: Coursera Mentor Community and Training Course
   url: "" 
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
 - certificate_url: ''
   date_end: ""
   date_start: "2011-03-01"
