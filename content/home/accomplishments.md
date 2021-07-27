@@ -34,7 +34,7 @@ item:
 - certificate_url: https://coursera.org/share/9b7234e01fa40be55c0e9e9e9ab1b800
   date_end: ""
   date_start: "2020-05-02"
-  description: Course's content is provided by AWS's 
+  description: AWS  
   organization: AWS 
   organization_url: https://www.coursera.org
   title: Getting Started with AWS Machine Learning
