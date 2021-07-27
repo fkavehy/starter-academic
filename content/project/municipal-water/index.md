@@ -10,7 +10,7 @@ external_link: https://fkavehy.netlify.app/project/municipal-water/
 image:
   filename: water-project.jpg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 ---
 This project is started in summer 2019 and includes the following steps:
 
