@@ -6,11 +6,11 @@ draft: false
 featured: true
 authors:
   - '"Fatemeh Kaveh-Yazdy"'
-external_link: www.yazd.ac.ir
+external_link: --
 image:
   filename: water-project.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 This project is started in summer 2019 and includes the following steps:
 
